@@ -52,7 +52,7 @@
     }
 
     // Footer
-    html += '<footer>Powered by Storefront</footer>';
+    html += '<footer>Powered by weblit</footer>';
     html += '</div>';
 
     app.innerHTML = html;
